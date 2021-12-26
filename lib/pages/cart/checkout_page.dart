@@ -196,7 +196,7 @@ class CheckoutPage extends StatelessWidget {
                 mainAxisSize: MainAxisSize.max,
                 children: [
                   Image.network(
-                    "https://1000logos.net/wp-content/uploads/2017/03/MasterCard-Logo-1979.png",
+                    "https://www.opportunitiesforafricans.com/wp-content/uploads/2019/03/2019_mastercard-graduate_development-programme-2019.jpg",
                     width: 50,
                     height: 50,
                   ),
